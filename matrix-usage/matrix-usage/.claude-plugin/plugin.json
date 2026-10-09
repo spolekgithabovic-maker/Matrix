@@ -1,0 +1,7 @@
+{
+  "name": "matrix-usage",
+  "version": "1.0.0",
+  "description": "Расход контекста и лимитов в стиле Матрицы: полоса над вводом, статус, предупреждение на 80% и команда /matrix",
+  "author": { "name": "Pavel" },
+  "types": "./types/index.d.ts"
+}

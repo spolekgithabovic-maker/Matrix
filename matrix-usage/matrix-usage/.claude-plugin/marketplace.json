@@ -1,0 +1,5 @@
+{
+  "name": "matrix-usage",
+  "owner": { "name": "Pavel" },
+  "plugins": [{ "name": "matrix-usage", "source": "./" }]
+}
